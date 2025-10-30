@@ -1,5 +1,1 @@
-first commit
-
-first conflict
-
-4 conflitc
+conflict on master branch
