@@ -1,3 +1,7 @@
 first commit
 
+<<<<<<< HEAD
 first conflict
+=======
+second conflict
+>>>>>>> 9eae527 (second conflict)
