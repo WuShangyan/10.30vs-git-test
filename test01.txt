@@ -1,5 +1,1 @@
-first commit
-
-first conflict
-
-3 conflict
+conflict on lower branch
