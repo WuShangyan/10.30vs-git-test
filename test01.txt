@@ -1,3 +1,5 @@
 conflict on master branch
 
+conflict on master branch
+
 conflict on master branch 
